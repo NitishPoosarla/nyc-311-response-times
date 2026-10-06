@@ -1,0 +1,11 @@
+{
+  "assumptions": {
+    "staff_cost_per_hour": 45.0,
+    "labor_hours_per_case": 1.6
+  },
+  "a_redeploy_hours_saved_per_quarter": 11709.0,
+  "a_redeploy_value_per_quarter": 526884.0,
+  "b_sla_sweep_target_cases": 36285,
+  "b_sla_sweep_cost": 914382.0,
+  "b_sla_sweep_backlog_reduction_pct": 0.35
+}

@@ -1,0 +1,14 @@
+{
+  "cases": 150000,
+  "closed": 143306,
+  "backlog_pct": 0.0446,
+  "median_resolve_h": 6.2,
+  "p90_resolve_h": 339.2,
+  "share_over_72h": 0.2532,
+  "worst_agency_name": "",
+  "worst_agency": "Department of Consumer and Worker Protection",
+  "worst_agency_med_h": 725.1027777777778,
+  "best_agency": "New York City Police Department",
+  "best_agency_med_h": 1.4972222222222222,
+  "n_over_72h": 36285
+}
